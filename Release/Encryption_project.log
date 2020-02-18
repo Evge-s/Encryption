@@ -1,0 +1,45 @@
+﻿  Check_list.cpp
+  Controller.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Encryption.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+  FileWork.cpp
+  Main.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13,11): error C2011: Vie: переопределение типа "class"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13): message : см. объявление "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(38,18): error C2011: PageField: переопределение типа "struct"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(38): message : см. объявление "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(45,1): error C2011: Viewew: переопределение типа "class"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(44): message : см. объявление "Viewew"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(19,11): error C2027: использование неопределенного типа "Viewew"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(44): message : см. объявление "Viewew"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(19,1): error C3861: New_Page: идентификатор не найден
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(22,11): error C2027: использование неопределенного типа "Viewew"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(44): message : см. объявление "Viewew"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(22,1): error C3861: New_Page: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\utility(290,1): error C2079: "std::pair<const std::string,PageField>::second" использует не имеющую определения структуру struct "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(38): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "std::pair<const std::string,PageField>"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(39,1): error C2664: "bool Controller::Add_Page(const std::string &,const PageField &)": невозможно преобразовать аргумент 2 из "int" в "const PageField &"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(39,1): message : Причина: невозможно преобразовать "int" в "const PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(39,1): message : использование неопределенного типа "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(38,8): message : см. объявление "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(25,7): message : см. объявление "Controller::Add_Page"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(47,8): error C2027: использование неопределенного типа "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13): message : см. объявление "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(48,8): error C2027: использование неопределенного типа "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13): message : см. объявление "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(49,8): error C2027: использование неопределенного типа "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13): message : см. объявление "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(51,8): error C2027: использование неопределенного типа "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(13): message : см. объявление "Vie"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(45,13): error C2027: использование неопределенного типа "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(38): message : см. объявление "PageField"
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(44,3): error C2660: Controller::Add_Page: функция не принимает 1 аргументов
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(25,7): message : см. объявление "Controller::Add_Page"
+  View.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(28,21): warning C4018: <: несоответствие типов со знаком и без знака

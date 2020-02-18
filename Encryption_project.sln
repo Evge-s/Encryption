@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Encryption_project", "Encryption_project.vcxproj", "{B477A4FE-8980-450A-AFDE-33F635CC4C27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Control", "Control", "{E989EA40-0F98-4F71-A13E-1AE212A04DFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "View", "View", "{7D6423A2-C0C6-448B-BD9B-2E973FEBA8A2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Code Mode", "Code Mode", "{06510E97-4628-41CE-BB04-64CE6D946D9C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data Base", "Data Base", "{00A23813-F1DA-4E22-91F2-9181F4519AE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Debug|x64.ActiveCfg = Debug|x64
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Debug|x64.Build.0 = Debug|x64
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Debug|x86.ActiveCfg = Debug|Win32
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Debug|x86.Build.0 = Debug|Win32
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Release|x64.ActiveCfg = Release|x64
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Release|x64.Build.0 = Release|x64
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Release|x86.ActiveCfg = Release|Win32
+		{B477A4FE-8980-450A-AFDE-33F635CC4C27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E0B910BC-A5AF-4E5C-9D91-6ECFD20CB2A9}
+	EndGlobalSection
+EndGlobal

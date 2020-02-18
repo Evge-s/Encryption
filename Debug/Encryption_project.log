@@ -1,0 +1,19 @@
+﻿  Check_list.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Controller.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(78,16): warning C4129: I: неизвестная escape-последовательность
+  Encryption.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+  FileWork.cpp
+  Main.cpp
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Encryption.cpp(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\KDFX Team\source\repos\Encryption_project\Controller.cpp(78,16): warning C4129: I: неизвестная escape-последовательность
+  View.cpp
+  Создание кода...
+C:\Users\KDFX Team\source\repos\Encryption_project\View.cpp(56): warning C4715: Page::Control_page: значение возвращается не при всех путях выполнения
+  Encryption_project.vcxproj -> C:\Users\KDFX Team\source\repos\Encryption_project\Debug\Encryption_project.exe
